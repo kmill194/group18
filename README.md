@@ -56,4 +56,12 @@ Delivery can also be connected to restaurant, as in a delivery can come from one
 ![datadiction10](https://user-images.githubusercontent.com/54413670/78729992-8ddda080-7909-11ea-8520-77c44912a0b9.PNG)
 ![datadiction11](https://user-images.githubusercontent.com/54413670/78729995-8fa76400-7909-11ea-9412-53fc0e9bd30e.PNG)
 
+## MySQL Queries
 
+## Trigger
+
+## Stored Procedure
+
+## Future Work
+
+## MySQL Dump
