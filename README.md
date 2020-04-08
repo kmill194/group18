@@ -5,7 +5,8 @@ For ITCS 3160
 ### Group members:
 Kaitlyn Miller,
 Mia Malic,
-Riley Jones, Sabda Karkera
+Riley Jones, Sabda Karkera, 
+Ozzie Martin
 
 ## Introduction:
 This is the introduction to our project. This README will include information such as who is in the group, the use case for the project, business rules, an eerd of our project, three mysql queries, trigger, the stored procedure, a future description of our work or whether or not we have web/app implementation, and a mysql dump. In this project, we are designing a test database system for a campus controlled food delivery service using MySQL. To design the database, we will be using business rules, entity relationship diagramming, normalization, and schema design.
