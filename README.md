@@ -57,11 +57,16 @@ Delivery can also be connected to restaurant, as in a delivery can come from one
 ![datadiction11](https://user-images.githubusercontent.com/54413670/78729995-8fa76400-7909-11ea-9412-53fc0e9bd30e.PNG)
 
 ## MySQL Queries
+A sample of three queries which will employ joins, nested selects, conditions, and where/sorting.
 
 ## Trigger
+Evidence of the implementation and execution of a trigger within our database. 
 
 ## Stored Procedure
+Example of prepared SQL code which is saved to our database so we can call on it multiple times. 
 
 ## Future Work
+Recommendations provided for backup, recovery and security procedures. Also, a description of types of users and roles will be stated. 
 
 ## MySQL Dump
+Information provided to load database contents. 
