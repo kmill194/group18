@@ -64,6 +64,8 @@ Evidence of the implementation and execution of a trigger within our database.
 
 ## Stored Procedure
 Example of prepared SQL code which is saved to our database so we can call on it multiple times. 
+It returns the number of drivers who are in the data base.
+
 
 ## Future Work
 Recommendations provided for backup, recovery and security procedures. Also, a description of types of users and roles will be stated. 
