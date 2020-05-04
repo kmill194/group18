@@ -70,7 +70,8 @@ Recommendations provided for backup, recovery and security procedures. Also, a d
 
 ## MySQL Dump
 Information provided to load database contents. 
-Links to SQL files:
+
+Link to SQL files:
 https://github.com/kmill194/group18/tree/master/Dump20200414
 
 Select * from Persons -- example. 
