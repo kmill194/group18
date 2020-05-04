@@ -72,6 +72,6 @@ Recommendations provided for backup, recovery and security procedures. Also, a d
 Information provided to load database contents. 
 Links to SQL files:
 https://github.com/kmill194/group18/tree/master/Dump20200414
-
 Select * from Persons -- example. 
+
 ![deliverable3](https://user-images.githubusercontent.com/54413670/79295920-f992b100-7ea7-11ea-8182-5cd11a2d63e8.png)
