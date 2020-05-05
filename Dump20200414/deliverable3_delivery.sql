@@ -33,6 +33,7 @@ CREATE TABLE `delivery` (
   PRIMARY KEY (`restaurant_ID`,`location_locationID`),
   KEY `fk_delivery_Persons_idx` (`Persons_personID`),
   KEY `fk_delivery_location1_idx` (`location_locationID`),
+  KEY `idx_delivery_totalPrice` (`totalPrice`),
   CONSTRAINT `fk_delivery_location1` FOREIGN KEY (`location_locationID`) REFERENCES `location` (`locationID`),
   CONSTRAINT `fk_delivery_Persons` FOREIGN KEY (`Persons_personID`) REFERENCES `Persons` (`personID`),
   CONSTRAINT `fk_delivery_restaurant1` FOREIGN KEY (`restaurant_ID`) REFERENCES `restaurant` (`ID`)
@@ -58,4 +59,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-04-14 23:06:37
+-- Dump completed on 2020-05-05 12:28:39
