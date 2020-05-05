@@ -57,7 +57,7 @@ Delivery can also be connected to restaurant, as in a delivery can come from one
 ![datadiction11](https://user-images.githubusercontent.com/54413670/78729995-8fa76400-7909-11ea-9412-53fc0e9bd30e.PNG)
 
 ## MySQL Queries
-A sample of three queries which will employ joins, nested selects, conditions, and where/sorting.
+https://github.com/rjone157/images/issues/2#issue-612952308
 
 ## Trigger
 Evidence of the implementation and execution of a trigger within our database. 
