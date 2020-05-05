@@ -27,7 +27,8 @@ CREATE TABLE `restaurant` (
   `ApprovedYorN` tinyint DEFAULT NULL,
   `location` varchar(100) DEFAULT NULL,
   PRIMARY KEY (`ID`),
-  UNIQUE KEY `ID_UNIQUE` (`ID`)
+  UNIQUE KEY `ID_UNIQUE` (`ID`),
+  KEY `approved` (`ApprovedYorN`)
 ) ENGINE=InnoDB AUTO_INCREMENT=101 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -50,4 +51,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-04-14 23:06:36
+-- Dump completed on 2020-05-05 12:28:38
