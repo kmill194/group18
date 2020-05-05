@@ -57,7 +57,8 @@ Delivery can also be connected to restaurant, as in a delivery can come from one
 ![datadiction11](https://user-images.githubusercontent.com/54413670/78729995-8fa76400-7909-11ea-9412-53fc0e9bd30e.PNG)
 
 ## MySQL Queries
-https://github.com/rjone157/images/issues/2#issue-612952308
+![query 1](https://user-images.githubusercontent.com/62607735/81125125-4e54a500-8f05-11ea-9714-d2b54f71e782.PNG)
+![query 2](https://user-images.githubusercontent.com/62607735/81125130-50b6ff00-8f05-11ea-8998-445694c02fae.PNG)
 
 ## Trigger
 Evidence of the implementation and execution of a trigger within our database. 
